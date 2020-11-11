@@ -1,2 +1,7 @@
-server:
-  port: 8601
+spring:
+  application:
+    name: demo-config-client-service1
+
+
+config:
+  info: hello-man777
