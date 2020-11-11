@@ -7,4 +7,4 @@ spring:
 
 
 config:
-  info: hello-config
+  info: hello-world
