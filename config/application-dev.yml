@@ -1,10 +1,7 @@
-server:
-  port: 8808
-  
 spring:
   application:
     name: demo-config-client-service1
 
 
 config:
-  info: hello-world
+  info: hello-man
