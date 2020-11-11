@@ -4,3 +4,7 @@ server:
 spring:
   application:
     name: demo-config-client-service1
+
+
+config:
+  info: hello-world
